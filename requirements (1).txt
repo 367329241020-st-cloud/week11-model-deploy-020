@@ -1,8 +1,0 @@
-streamlit==1.38.0
-pandas==2.2.2
-joblib==1.4.2
-Orange3==3.36.2
-tensorflow==2.17.0
-Pillow==10.4.0
-scikit-learn
-numpy
